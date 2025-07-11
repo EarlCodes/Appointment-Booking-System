@@ -1,0 +1,15 @@
+# .gitignore
+
+# ASP.NET
+API/AppointmentApp.API/bin/
+API/AppointmentApp.API/obj/
+
+# Node
+front-end/angular-app/node_modules/
+front-end/angular-app/dist/
+
+# Docker
+.env
+
+# IDE
+.vscode/
