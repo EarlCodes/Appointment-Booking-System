@@ -1,8 +1,0 @@
-C:\Users\mtsha\Documents\Apps\Appointment Booking System\backend\obj\Debug\net9.0\backend.csproj.AssemblyReference.cache
-C:\Users\mtsha\Documents\Apps\Appointment Booking System\backend\obj\Debug\net9.0\rpswa.dswa.cache.json
-C:\Users\mtsha\Documents\Apps\Appointment Booking System\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mtsha\Documents\Apps\Appointment Booking System\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
-C:\Users\mtsha\Documents\Apps\Appointment Booking System\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
-C:\Users\mtsha\Documents\Apps\Appointment Booking System\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
-C:\Users\mtsha\Documents\Apps\Appointment Booking System\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\mtsha\Documents\Apps\Appointment Booking System\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cache
