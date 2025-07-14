@@ -1,15 +1,30 @@
-# .gitignore
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
 
-# ASP.NET
-API/AppointmentApp.API/bin/
-API/AppointmentApp.API/obj/
-
-# Node
-front-end/angular-app/node_modules/
-front-end/angular-app/dist/
-
-# Docker
+# Angular/Node
+node_modules/
+dist/
 .env
 
-# IDE
+# VSCode/IDE
 .vscode/
+.idea/
+*.log
+
+# Docker
+*.pid
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
